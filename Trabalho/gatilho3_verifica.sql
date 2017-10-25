@@ -1,0 +1,1 @@
+INSERT INTO "Especialidade" VALUES (-1, 'Medicina Desportiva');

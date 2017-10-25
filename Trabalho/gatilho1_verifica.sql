@@ -1,0 +1,1 @@
+INSERT INTO "Funcionario" VALUES (12360, 'Farmaceutico','9:00- 18:00');
